@@ -1,4 +1,4 @@
-const repeatString = function() {
+const repeatString = function(putString, putNumber) {
 
 };
 
